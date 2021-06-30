@@ -1,7 +1,7 @@
-# Welkom pagina Companion App
+# Welkompagina Companion App
 
 ## Context
-Voor de Companion App van mijnHvA Student wordt een welkom pagina gerealiseerd.
+Voor de Companion App van mijnHvA Student wordt een welkompagina gerealiseerd.
 
 Leertaak: Companion App Start. Deze leertaak hoort bij sprint **The Client**. Dit is een **autonome** opdracht die je **individueel** uitvoert voor **mijnHvA Student**.
 
