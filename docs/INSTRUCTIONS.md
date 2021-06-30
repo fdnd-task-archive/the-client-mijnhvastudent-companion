@@ -1,12 +1,9 @@
-# {Naam}
-
-De conventie voor naamgeving is opdrachtgever-opdracht-ondersteuningsniveau
-Topics: opdrachtgever-naam, semester-naam, sprint-naam, niveau-naam
+# Welkom pagina Companion App
 
 ## Context
-*Bij welke sprint hoort deze leertaak en welk niveau heeft deze leertaak.*
+Voor de Companion App van mijnHvA Student wordt een welkom pagina gerealiseerd.
 
-Leertaak: {Beschrijving van de leertaak}. Deze leertaak hoort bij {sprint # "titel van de sprint}. Dit is een {niveau van de opdracht} die je {individueel, in team} uitvoert voor {opdrachtgever}
+Leertaak: Companion App Start. Deze leertaak hoort bij sprint **The Client**. Dit is een **autonome** opdracht die je **individueel** uitvoert voor **mijnHvA Student**.
 
 ## Briefing
 *In de briefing staat wat de opdracht is en wat de opdrachtgever wil.*
