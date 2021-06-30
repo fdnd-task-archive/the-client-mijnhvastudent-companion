@@ -8,13 +8,22 @@ Leertaak: Companion App Start. Deze leertaak hoort bij sprint **The Client**. Di
 ## Briefing
 *In de briefing staat wat de opdracht is en wat de opdrachtgever wil.*
 
-{Beschrijf de opdrachtgever}
-{Beschrijf de opdracht}
+MijnHvA Student is een productteam binnen de HvA die werkt aan het MijnHvA studentportaal. MijnHvA is het startpunt van alle informatie die studenten nodig hebben voor  hun studie. Binnen dit studentportaal leeft de Companion App.
+
+Voor de Companion App ga je een welkompagina realiseren.
+
+Deze Companion App zal uiteindelijk een grote brochure/tutorial/guide/kennisbank zijn ter ondersteuning van de mijnHva Student app (of latere uitbreidingen hiervan).  
+
+De eerste pagina zal een visitekaart zijn met een introductie voor de echte app. Denk hierbij aan inline images, correcte huisstijl en uitgelijnde teksten.
+
+De welkompagina moet vooralsnog goed te gebruiken zijn op mobiele telefoons
+ 
 
 ## Doel van deze opdracht
 *Wat leer je in deze taak.*
 
 {beschrijf de taak in actieve taal: Je leert hoe...}
+Welkompagina realiseren; Basis HTML, CSS, JavaScript, huisstijl implementeren, communiceren met de opdrachtgever, bevindingen presenteren.
 
 ## Werkwijze
 *De werkwijze volgt de fasering van de Development Life Cycle.*
@@ -25,6 +34,7 @@ Deze opdracht gaat over alle fases van de DLC [analyseren](#analyseren), [ontwer
 
 ### Analyseren
 *In de analysefase inventariseer je wat er moet gebeuren om een taak uit te voeren.*
+# content opvragen
 
 <details>
 <summary>Aanpak</summary>
