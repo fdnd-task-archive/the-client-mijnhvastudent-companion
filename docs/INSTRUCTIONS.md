@@ -32,17 +32,15 @@ Deze opdracht gaat over alle fases van de DLC [analyseren](#analyseren), [ontwer
 
 ### Analyseren
 *In de analysefase inventariseer je wat er moet gebeuren om een taak uit te voeren.*
-# content opvragen
 
-In deze fase is het doel grip te krijgen op de opdracht, met een focus op communiceren met de opdrachtgever.
+In deze fase ligt de focus op communiceren met de opdrachtgever.
 
 <details>
 <summary>Aanpak</summary>
 
-1. Schrijf een debrief
+1. Schrijf en presenteer een debrief
 2. Inventariseer bestaande informatie (bijvoorbeeld de content voor de welkompagina)
 3. Maak een todo lijst
-4. Bestudeer de bestaande huisstijl
 
 #### Materiaal
 
@@ -55,12 +53,17 @@ In deze fase is het doel grip te krijgen op de opdracht, met een focus op commun
 ### Ontwerpen
 *In de ontwerpfase neem je ontwerpbeslissingen en zorg je dat je precies weet wat je moet gaan bouwen.*
 
+In deze fase ligt de focus op het implementeren van de bestaande huisstijl ten behoeve van de content van de nieuwe welkompagina
+
 <details>
 <summary>Aanpak</summary>
+ 
+ idee-schetsen, customer journey, breakdown chart, wireflows, navigatiestructuur en layout.
 
-1. {geef de stappen}
-2. {die in deze fase}
-3. {doorlopen worden}
+1. Bestudeer de huisstijl
+2. Maak een breakdown-chart van de aangeleverde content 
+3. Schets een aantal variaties van mogelijke layout van de welkompagina
+
 
 #### Materiaal
 
@@ -75,10 +78,13 @@ In deze fase is het doel grip te krijgen op de opdracht, met een focus op commun
 
 <details>
 <summary>Aanpak</summary>
+ 
+ toepassen van webtechnologie (HTML, CSS, JS), gebruik van tooling, werken volgens conventies en wetgeving, documenteren en bijhouden van een changelog.
 
-1. {geef de stappen}
-2. {die in deze fase}
-3. {doorlopen worden}
+1. Werk aan de hand van de breakdown-chart de html van de welkompagina uit
+2. Vervolgens style je aan de hand van de bestaande huisstijl met behulp van CSS de content elementen en de layout van de pagina
+3. Eventuele interactie werk je, daar waar nodig, uit met JavaScript
+4. Documenteer de uitwerking in de README.md van de opdracht-repository
 
 #### Materiaal
 
@@ -93,15 +99,11 @@ In deze fase is het doel grip te krijgen op de opdracht, met een focus op commun
 
 <details>
 <summary>Aanpak</summary>
-
-1. {geef de stappen}
-2. {die in deze fase}
-3. {doorlopen worden}
+ 
+Publiceer jouw uitwerking van de welkompagina met GitHub Pages
 
 #### Materiaal
 
-- [Resource](https://example.com)
-- [Resource](https://example.com)
 - [Resource](https://example.com)
 
 </details>
@@ -112,14 +114,10 @@ In deze fase is het doel grip te krijgen op de opdracht, met een focus op commun
 <details>
 <summary>Aanpak</summary>
 
-1. {geef de stappen}
-2. {die in deze fase}
-3. {doorlopen worden}
+Test jouw uitwerking van de welkompagina door middel van een User Test
 
 #### Materiaal
 
-- [Resource](https://example.com)
-- [Resource](https://example.com)
 - [Resource](https://example.com)
 
 </details>
