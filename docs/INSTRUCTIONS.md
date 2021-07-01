@@ -114,18 +114,21 @@ Publiceer jouw uitwerking van de welkompagina met GitHub Pages
 <details>
 <summary>Aanpak</summary>
 
-Test jouw uitwerking van de welkompagina door middel van een User Test
+ 1. Test jouw uitwerking van de welkompagina door middel van een User Test, registreer en verwerk feedback met behulp van GitHub Issues
+ 2. Presenteer jouw uitwerking van de welkompagina, registreer en verwerk feedback met behulp van GitHub Issues
+
 
 #### Materiaal
 
-- [Resource](https://example.com)
+- [User Testing](https://example.com)
+- [GitHub Issues]
 
 </details>
 
 ## Criteria
 *Definitions of done*
 
-{beschrijf de definitions of done}
+De leertaak is klaar als jouw uitwerking van de welkompagina is gedocumenteerd in de README.md. Je hebt de welkompagina gepresenteerd aan de opdrachtgever en de ontvangen feedback geregistreerd en verwerkt met behulp van GitHub Issues. Je bent nu klaar voor de Checkpoint, waar je met de coach reflecteert op hoe het communiceren met de opdrachtgever is gegaan en over het resultaat dat je hebt opgeleverd.
 
-Focus sprint 2 - De focus in deze sprint ligt op het maken van een opdracht voor een opdrachtgever en het presenteren van het resultaat.Kennismaken met het vakgebied, communiceren en presenteren. Hoe kom je over bij je opdrachtgever. Durfen.
+_Focus sprint 2 - De focus in deze sprint ligt op het maken van een opdracht voor een opdrachtgever en het presenteren van het resultaat.Kennismaken met het vakgebied, communiceren en presenteren. Hoe kom je over bij je opdrachtgever. Durfen._
 
