@@ -44,21 +44,18 @@ In deze fase ligt de focus op communiceren met de opdrachtgever.
 
 #### Materiaal
 
-- [Resource](https://example.com)
-- [Resource](https://example.com)
-- [Resource](https://example.com)
+- [Briefing / debriefing](https://example.com)
+- [Content inventariseren](https://example.com)
 
 </details>
 
 ### Ontwerpen
 *In de ontwerpfase neem je ontwerpbeslissingen en zorg je dat je precies weet wat je moet gaan bouwen.*
 
-In deze fase ligt de focus op het implementeren van de bestaande huisstijl ten behoeve van de content van de nieuwe welkompagina
+In deze fase ligt de focus op het implementeren van de bestaande huisstijl in jouw ontwerp.
 
 <details>
 <summary>Aanpak</summary>
- 
- idee-schetsen, customer journey, breakdown chart, wireflows, navigatiestructuur en layout.
 
 1. Bestudeer de huisstijl
 2. Maak een breakdown-chart van de aangeleverde content 
@@ -67,14 +64,16 @@ In deze fase ligt de focus op het implementeren van de bestaande huisstijl ten b
 
 #### Materiaal
 
-- [Resource](https://example.com)
-- [Resource](https://example.com)
-- [Resource](https://example.com)
+- [Living Styleguide](https://example.com)
+- [Breakdown-chart](https://example.com)
+- [Layout schetsen](https://example.com)
 
 </details>
 
 ### Bouwen
 *In de bouwfase realiseer je de beslissingen uit de ontwerpfase.*
+
+In deze fase ligt de focus op het implementeren van de bestaande huisstijl in de code.
 
 <details>
 <summary>Aanpak</summary>
@@ -88,9 +87,9 @@ In deze fase ligt de focus op het implementeren van de bestaande huisstijl ten b
 
 #### Materiaal
 
-- [Resource](https://example.com)
-- [Resource](https://example.com)
-- [Resource](https://example.com)
+- [HTML semantiek](https://example.com)
+- [CSS reference](https://example.com)
+- [Hey Designer...only these lines of code](https://example.com)
 
 </details>
 
@@ -110,6 +109,8 @@ Publiceer jouw uitwerking van de welkompagina met GitHub Pages
 
 ### Testen
 *In de testfase controleer je of jouw aanpassingen werken zoals bedoeld.*
+
+In deze fase ligt de focus op communiceren met de opdrachtgever.
 
 <details>
 <summary>Aanpak</summary>
