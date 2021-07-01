@@ -22,14 +22,11 @@ De welkompagina moet vooralsnog goed te gebruiken zijn op mobiele telefoons
 ## Doel van deze opdracht
 *Wat leer je in deze taak.*
 
-{beschrijf de taak in actieve taal: Je leert hoe...}
-
-Je leert in deze taak hoe je copmmuniceert met een opdrachtgever en hoe je je bevindingen duidelijk en aansprekelijk presenteert. 
+Je leert in deze taak hoe je communiceert met een opdrachtgever en hoe je je bevindingen duidelijk en aansprekelijk presenteert. 
 Daarnaast leer jet met basis HTML, CSS, JavaScript technieken een huisstijl te implementeren.
 
 ## Werkwijze
 *De werkwijze volgt de fasering van de Development Life Cycle.*
-
 
 Deze opdracht gaat over alle fases van de DLC [analyseren](#analyseren), [ontwerpen](#ontwerpen), [bouwen](#bouwen), [integreren](#integreren) en [testen](#testen).
 
@@ -37,12 +34,15 @@ Deze opdracht gaat over alle fases van de DLC [analyseren](#analyseren), [ontwer
 *In de analysefase inventariseer je wat er moet gebeuren om een taak uit te voeren.*
 # content opvragen
 
+In deze fase is het doel grip te krijgen op de opdracht, met een focus op communiceren met de opdrachtgever.
+
 <details>
 <summary>Aanpak</summary>
 
-1. {geef de stappen}
-2. {die in deze fase}
-3. {doorlopen worden}
+1. Schrijf een debrief
+2. Inventariseer bestaande informatie (bijvoorbeeld de content voor de welkompagina)
+3. Maak een todo lijst
+4. Bestudeer de bestaande huisstijl
 
 #### Materiaal
 
