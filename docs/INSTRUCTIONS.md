@@ -129,7 +129,7 @@ In deze fase ligt de focus op communiceren met de opdrachtgever.
 ## Criteria
 *Definitions of done*
 
-De leertaak is klaar als jouw uitwerking van de welkompagina is gedocumenteerd in de README.md. Je hebt de welkompagina gepresenteerd aan de opdrachtgever en de ontvangen feedback geregistreerd en verwerkt met behulp van GitHub Issues. Je bent nu klaar voor de Checkpoint, waar je met de coach reflecteert op hoe het communiceren met de opdrachtgever is gegaan en over het resultaat dat je hebt opgeleverd.
+De leertaak is klaar als jouw uitwerking van de welkompagina is gedocumenteerd in de README.md. Je hebt de welkompagina gepresenteerd aan de opdrachtgever en de ontvangen feedback geregistreerd en verwerkt met behulp van GitHub Issues. Je bent nu klaar voor het Checkpoint, waar je met de coach reflecteert op hoe het communiceren met de opdrachtgever is gegaan en over het resultaat dat je hebt opgeleverd.
 
 _Focus sprint 2 - De focus in deze sprint ligt op het maken van een opdracht voor een opdrachtgever en het presenteren van het resultaat.Kennismaken met het vakgebied, communiceren en presenteren. Hoe kom je over bij je opdrachtgever. Durfen._
 
