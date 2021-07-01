@@ -1,9 +1,9 @@
 # Welkompagina Companion App
 
 ## Context
-Voor de Companion App van mijnHvA Student wordt een welkompagina gerealiseerd.
+Voor de **Companion App** van de **HvA (mijnHvA Student)** wordt een welkompagina gerealiseerd.
 
-Leertaak: Companion App Start. Deze leertaak hoort bij sprint **The Client**. Dit is een **autonome** opdracht die je **individueel** uitvoert voor **mijnHvA Student**.
+Leertaak: **Companion App Start**. Deze leertaak hoort bij sprint **The Client**. Dit is een **autonome** opdracht die je **individueel** uitvoert voor de **HvA (mijnHvA Student)**.
 
 ## Briefing
 *In de briefing staat wat de opdracht is en wat de opdrachtgever wil.*
