@@ -8,7 +8,7 @@ Leertaak: **Companion App Start**. Deze leertaak hoort bij sprint **The Client**
 ## Briefing
 *In de briefing staat wat de opdracht is en wat de opdrachtgever wil.*
 
-MijnHvA Student is het productteam binnen de HvA die werkt aan het MijnHvA studentportaal. MijnHvA is het startpunt van alle informatie die studenten nodig hebben voor  hun studie. Binnen dit studentportaal leeft de Companion App.
+MijnHvA Student is het productteam binnen de HvA dat werkt aan het MijnHvA studentportaal. MijnHvA is het startpunt van alle informatie die studenten nodig hebben voor  hun studie. Binnen dit studentportaal leeft de Companion App.
 
 Voor de Companion App ga je een welkompagina realiseren.
 
