@@ -1,0 +1,84 @@
+/* General */
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1em;
+}
+
+a {
+    text-decoration: none;
+}
+
+/* Header */
+header {
+    height: 55px;
+    box-shadow: rgb(0 0 0 / 10%) 0px 10px 50px;
+    display: flex;
+    padding: 0 10rem 0 10rem;
+}
+
+/* Logo */
+.logo-wrapper {
+    align-items: center;
+    display: flex;
+}
+
+.logo-wrapper svg {
+    fill: #25167A;
+    width: 125px;
+    height: auto;
+}
+
+/* Navigation */
+nav {
+    margin-left: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+nav ul {
+    display: flex;
+    flex-direction: row;
+    list-style-type: none;
+}
+
+nav ul li {
+    margin: 0 10px;
+}
+
+nav ul li a {
+    color: #25167A;
+    font-size: 0.875em;
+}
+
+/* Aanmeld btn */
+nav ul li:nth-child(6) a {
+    background: #E1DEF4;
+    padding: 6px 10px;
+    border-radius: 20px;
+    position: relative;
+}
+
+/* Aanmeld btn stripe */
+nav ul li:nth-child(6) a:before {
+    content: '';
+    display: block;
+    width: 1px;
+    height: 20px;
+    background: #C0C0C0;
+    position: absolute;
+    left: -10px;
+    top: 5px;
+}
+
+/* Active menu item */
+nav ul li a.active {
+    font-weight: bold;
+    border-bottom: 1px solid #25167A;
+}
